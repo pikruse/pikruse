@@ -5,15 +5,6 @@
 * Researching artificial intelligence, machine learning, and deep learning at **Oak Ridge National Laboratory**
 * Graduate of **Juniata College** (2022)
 
-<h2 align="left">Featured Repositories</h2>
-
-* **`pennycress-segmentation`:** A U-Net architecture for biologically relevant segmentations of pennycress seed pods.
-* **`pennycress-wnet`:** A W-Net architecture for unsupervised segmentation of pennycress seed pods
-* **`pk-bot`:** 
-* **`dgx-utils`:**
-
-<h2 align="left">Notable Publications</h2>
-
 <h2 align="left">Languages, Tools, and Frameworks</h2>
 
 <p align="left"> 
@@ -41,9 +32,9 @@
 </p>
 
 <h2 align="left"> Github Stats </h2>
-<p align= "left">
-  <img height= "195" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pikruse&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<p align= "center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
+  <img height="195" src="https://streak-stats.demolab.com?user=pikruse&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
 
 
