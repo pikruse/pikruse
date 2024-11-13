@@ -1,4 +1,4 @@
-<h1 align="center"><b>Peter I. Kruse</b></h1>
+<h1 align="left"><b>Peter I. Kruse</b></h1>
 <h3 align="left"><b>About</b></h3>
 
 * Ph.D. Student in Data Science at Engineering at **University of Tennessee**
