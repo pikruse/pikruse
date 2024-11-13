@@ -1,15 +1,22 @@
-<h1 align="center"><b>Peter I. Kruse</b></h1>
-<h3 align="center"><b>About</b></h3>
+<h1 align="left"><b>Peter I. Kruse</b></h1>
+<h2 align="left"><b>About</b></h2>
 
 * Ph.D. Student in Data Science at Engineering at **University of Tennessee**
 * Researching artificial intelligence, machine learning, and deep learning at **Oak Ridge National Laboratory**
 * Graduate of **Juniata College** (2022)
-  
-</div>
 
-<h3 align="center">Languages, Tools, and Frameworks:</h3>
+<h2 align="left">Featured Repositories</h2>
 
-<p align="center"> 
+* **`pennycress-segmentation`:** A U-Net architecture for biologically relevant segmentations of pennycress seed pods.
+* **`pennycress-wnet`:** A W-Net architecture for unsupervised segmentation of pennycress seed pods
+* **`pk-bot`:** 
+* **`dgx-utils`:**
+
+<h2 align="left">Notable Publications</h2>
+
+<h2 align="left">Languages, Tools, and Frameworks</h2>
+
+<p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
@@ -33,9 +40,10 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikruse&theme=react&layout=compact" />
+<h2 align="left"> Github Stats </h2>
+<p align= "left">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikruse&theme=transparent&layout=compact" />
 </p>
 
 
