@@ -34,8 +34,8 @@
 
 <h2 align="left"> Github Stats </h2>
 <p align= "center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
-  <img height="190" src="https://streak-stats.demolab.com?user=pikruse&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=pikruse&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
 
 
