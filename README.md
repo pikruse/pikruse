@@ -4,6 +4,7 @@
 * Ph.D. Student in Data Science at Engineering at **University of Tennessee**
 * Researching artificial intelligence, machine learning, and deep learning at **Oak Ridge National Laboratory**
 * Graduate of **Juniata College** (2022)
+* If you would like to collaborate, feel free to send me an email!
 
 <h2 align="left">Languages, Tools, and Frameworks</h2>
 
