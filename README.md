@@ -6,7 +6,7 @@
 * Graduate of **Juniata College** (2022)
 * If you would like to collaborate, feel free to send me an email!
 
-<h2 align="left">Languages, Tools, and Frameworks</h2>
+<h2 align="center">Languages, Tools, and Frameworks</h2>
 
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<h2 align="left"> Github Stats </h2>
+<h2 align="center"> Github Stats </h2>
 <p align= "center">
   <img height="100" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
   <img height="100" src="https://streak-stats.demolab.com?user=pikruse&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
