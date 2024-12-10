@@ -42,6 +42,7 @@
 <p align= "center">
   <img height="100" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
   <img height="100" src="https://streak-stats.demolab.com?user=pikruse&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </p>
 
 
