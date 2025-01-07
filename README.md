@@ -16,25 +16,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
   </a> 
   <a href="https://www.r-project.org" target_="blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" alt="r" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-line.svg" alt="r" width="50" height="50"/>
   </a>
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
   </a>
   <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="50" height="50"/>
   </a>
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="50" height="50"/>
   </a>
   <a href="https://latex.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="50" height="50"/>
   </a>
 </p>
 
