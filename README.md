@@ -40,8 +40,7 @@
 
 <h2 align="center"> Github Stats </h2>
 <p align= "center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
-  <img height="100" src="https://streak-stats.demolab.com?user=pikruse&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
 </p>
 
 
