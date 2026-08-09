@@ -38,4 +38,15 @@
   </a>
 </p>
 
+<h2 align="center></h2>
+
+<p align="center">
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=pikruse&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+    align="center"
+  />
+  <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api?username=pikruse&show_icons=true" align="center"/>
+</p>
 
