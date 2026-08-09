@@ -38,9 +38,4 @@
   </a>
 </p>
 
-<h2 align="center"> Github Stats </h2>
-<p align= "center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=pikruse&theme=transparent&show_icons=true&include_all_commits=true" />
-</p>
-
 
